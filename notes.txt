@@ -1,0 +1,5 @@
+Cuando exista un header es necesario poner un section
+Normalize, normaliza los estilos css
+
+Para usar FlexBox o CSSGrid, siempre se hace referencia al padre
+
